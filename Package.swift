@@ -21,6 +21,6 @@ let package = Package(
         .target(
             name: "Loady",
             dependencies: [],
-            path: "Loady"),
+            path: "Loady/Classes"),
     ]
 )
